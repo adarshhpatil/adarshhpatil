@@ -1,5 +1,5 @@
 # 💫 About Me:
-Wassup, I'm Adarshh Patil 👋<br>Full-Stack Developer • Builder • Startup Enthusiast 🚀<br><br>I build real-world products, experiments, and startup ideas at the intersection of technology, design, and business.<br><br>I'm interested in turning problems into products — from AI platforms and SaaS tools to developer applications and real-world business solutions.
+Wassup, I'm Adarshh Patil 👋<br>Full-Stack Developer • Builder • Startup Enthusiast 🚀<br><br>I build real-world products, experiments, and startup ideas at the intersection of technology, design, and business.<br><br>I'm interested in turning problems into products, from AI platforms and SaaS tools to developer applications and real-world business solutions.
 
 
 ## 🌐 Socials:
